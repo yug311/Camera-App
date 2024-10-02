@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoGallery</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>

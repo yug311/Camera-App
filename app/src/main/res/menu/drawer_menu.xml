@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_baseline_photo_library_24"
+            android:title="Photo Gallery" />
+
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_baseline_photo_camera_24"
+            android:title="Camera" />
+
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_baseline_map_24"
+            android:title="Map" />
+
+    </group>
+</menu>
